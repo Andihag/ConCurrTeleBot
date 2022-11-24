@@ -1,2 +1,2 @@
-# TeleBot
+# ConCurrTeleBot
 Телеграмм бот - конвертер валют
